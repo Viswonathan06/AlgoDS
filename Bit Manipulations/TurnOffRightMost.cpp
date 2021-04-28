@@ -17,6 +17,4 @@ int main()
     cin>>x;
     bitset<64> a(x);
     cout<<turnRightOff(x);
-
-    // return tokens;
 }
